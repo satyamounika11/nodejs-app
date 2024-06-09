@@ -36,3 +36,21 @@ Now, lets create ECS using ECR with Terraform.
 
 A file "main.tf" has been included in "terraform-ecs" folder. This file is responsible for the creation of ECS, Task, ALB, and SG as I have used existing VPC, Public subnets and Execution role for this task.
 
+Follow below steps:
+Initialize the repository:
+```
+terraform init
+```
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/428b183b-bc43-437d-848b-6d29ae645111)
+
+Check the resources that are about to be created:
+```
+terraform plan
+```
+
+Create resources:
+```
+terraform apply
+```
+
+
