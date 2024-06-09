@@ -1,4 +1,4 @@
-Node-JS Hello-World Application:
+# Node-JS Hello-World Application:
 
 For a NodeJS application, we need "index.js, package.json and Dockerfile".
 * "index.js" which acts as an entry point for the NodeJS application
@@ -53,9 +53,9 @@ Create resources:
 ```
 terraform apply
 ```
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/ddef5c1e-45ce-4ecc-b24a-15a07078c187)
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/f6e41d3a-3f8b-42ce-a5be-adffbd454918)
 
-**OUTPUT:**
+# OUTPUT:
 
 ECS Cluster:
 ![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/67c702fe-4857-44e5-8bd8-450e6cfd3274)
@@ -66,4 +66,5 @@ Task:
 Service:
 ![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/0a1aeac9-e660-44a9-a8ba-d8e2daff09ae)
 
-
+OUTPUT of Application:
+![node](https://github.com/satyamounika11/nodejs-app/assets/37068004/f2383dda-acee-4ec7-9ed7-430e802b5735)
