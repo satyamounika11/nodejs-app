@@ -47,13 +47,14 @@ Check the resources that are about to be created:
 ```
 terraform plan
 ```
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/6feef805-ee11-4595-8a5c-01ff5ae8f7fb)
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/2dd62929-c36e-416c-8a35-861033cf50ff)
 
 Create resources:
 ```
 terraform apply
 ```
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/880f8f3b-91fc-4832-acb3-01986d2aa5c1)
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/2336459f-9273-4bbd-96cd-e7ee669d9693)
+
 
 
 
