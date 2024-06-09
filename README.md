@@ -86,8 +86,7 @@ Go to Actions of this repo, Choose "Deployment with ECS". A new file "aws.yml" o
 ![node](https://github.com/satyamounika11/nodejs-app/assets/37068004/f2383dda-acee-4ec7-9ed7-430e802b5735)
 
 **LoadBalancer**:
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/abbdc175-04a0-45b9-8acb-f2c2a92dd647)
-
+![loadb](https://github.com/satyamounika11/nodejs-app/assets/37068004/b1b01770-5ebe-4abd-91b6-b518946e4e96)
 
 **Health**:
 ![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/da86c8ad-b617-43e1-98cb-96bb73224a27)
