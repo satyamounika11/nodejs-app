@@ -10,7 +10,7 @@ env:
   ECS_SERVICE: nodejs-service                 
   ECS_CLUSTER: nodejs-cluster  
   CONTAINER_NAME: nodejs-container
-  ECS_TASK_DEFINITION: nodejs-task
+  ECS_TASK_DEFINITION: nodejs-task.json
 
 permissions:
   contents: read
