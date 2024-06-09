@@ -53,5 +53,6 @@ Create resources:
 ```
 terraform apply
 ```
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/68ebab69-e236-4efb-adb7-7e88360c8cac)
 
 
