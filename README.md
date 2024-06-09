@@ -47,15 +47,16 @@ Check the resources that are about to be created:
 ```
 terraform plan
 ```
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/2dd62929-c36e-416c-8a35-861033cf50ff)
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/1a98797c-8b6a-4279-aa29-e054d0c9a3d1)
 
 Create resources:
 ```
 terraform apply
 ```
-![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/2336459f-9273-4bbd-96cd-e7ee669d9693)
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/ddef5c1e-45ce-4ecc-b24a-15a07078c187)
 
 **OUTPUT:**
+
 ECS Cluster:
 ![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/67c702fe-4857-44e5-8bd8-450e6cfd3274)
 
