@@ -47,6 +47,7 @@ Check the resources that are about to be created:
 ```
 terraform plan
 ```
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/15a9f023-e6df-46e9-b7cd-73cfb19dde19)
 
 Create resources:
 ```
