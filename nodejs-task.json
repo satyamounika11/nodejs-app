@@ -1,0 +1,56 @@
+{
+    "taskDefinitionArn": "arn:aws:ecs:ap-south-1:819821926402:task-definition/nodejs-task:9",
+    "containerDefinitions": [
+        {
+            "name": "nodejs-container",
+            "image": "819821926402.dkr.ecr.ap-south-1.amazonaws.com/nodejs-app:latest",
+            "cpu": 0,
+            "portMappings": [
+                {
+                    "containerPort": 3000,
+                    "hostPort": 3000,
+                    "protocol": "tcp"
+                }
+            ],
+            "essential": true,
+            "environment": [],
+            "mountPoints": [],
+            "volumesFrom": [],
+            "systemControls": []
+        }
+    ],
+    "family": "nodejs-task",
+    "executionRoleArn": "arn:aws:iam::819821926402:role/ecsTaskExecutionRole",
+    "networkMode": "awsvpc",
+    "revision": 9,
+    "volumes": [],
+    "status": "INACTIVE",
+    "requiresAttributes": [
+        {
+            "name": "com.amazonaws.ecs.capability.ecr-auth"
+        },
+        {
+            "name": "ecs.capability.execution-role-ecr-pull"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+        },
+        {
+            "name": "ecs.capability.task-eni"
+        }
+    ],
+    "placementConstraints": [],
+    "compatibilities": [
+        "EC2",
+        "FARGATE"
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "256",
+    "memory": "512",
+    "registeredAt": "2024-06-09T17:43:53.255Z",
+    "deregisteredAt": "2024-06-09T18:08:46.067Z",
+    "registeredBy": "arn:aws:iam::819821926402:root",
+    "tags": []
+}
