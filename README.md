@@ -55,6 +55,14 @@ terraform apply
 ```
 ![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/2336459f-9273-4bbd-96cd-e7ee669d9693)
 
+**OUTPUT:**
+ECS Cluster:
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/67c702fe-4857-44e5-8bd8-450e6cfd3274)
 
+Task:
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/4c4b3b2c-9b28-45bb-9404-348620f5ae02)
+
+Service:
+![image](https://github.com/satyamounika11/nodejs-app/assets/37068004/0a1aeac9-e660-44a9-a8ba-d8e2daff09ae)
 
 
